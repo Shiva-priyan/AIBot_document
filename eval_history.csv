@@ -1,0 +1,7 @@
+run,time,mode,questions,answered,errors,hit_rate,keyword_recall,avg_latency_ms
+topk6,2026-11-17 07:55:59,basic,10,10,0,0.7,0.85,525
+topk6,2026-11-17 07:55:59,mmr,10,10,0,0.7,0.8,362
+topk6,2026-11-17 07:55:59,multi_query,10,10,0,0.7,0.85,2393
+topk6,2026-11-17 07:55:59,hybrid,10,10,0,0.7,0.85,383
+topk6,2026-11-17 07:55:59,hyde,10,10,0,0.7,0.85,1612
+topk6,2026-11-17 07:55:59,rerank,10,10,0,0.7,0.85,1462

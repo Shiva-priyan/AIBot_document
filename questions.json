@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who is eligible for the Integrated Horticulture Development Scheme (SCP)?",
+    "expected_keywords": ["SC and ST", "SCP"]
+  },
+  {
+    "question": "What subsidy is given for micro irrigation and what is the ceiling per beneficiary family?",
+    "expected_keywords": ["50%", "5 hectares"]
+  },
+  {
+    "question": "How much subsidy is given for an oil engine under the Integrated Tribal Development Programme?",
+    "expected_keywords": ["11250", "oil engine"]
+  },
+  {
+    "question": "What is the registration fee for seed certification per sowing report?",
+    "expected_keywords": ["Rs. 25", "Registration"]
+  },
+  {
+    "question": "What is the fee and validity period of a seed selling licence?",
+    "expected_keywords": ["Rs.50", "3 years"]
+  },
+  {
+    "question": "What is the organic certification registration fee for small and marginal farmers?",
+    "expected_keywords": ["Rs.500", "small and marginal"]
+  },
+  {
+    "question": "What is the field inspection charge for hybrid cotton seed production?",
+    "expected_keywords": ["Hybrid Cotton", "Rs.250"]
+  },
+  {
+    "question": "What is the tractor subsidy limit under the Agricultural Mechanisation Programme?",
+    "expected_keywords": ["45000", "Tractor"]
+  },
+  {
+    "question": "What subsidy is given under Soil and Water Conservation in the River Valley Project catchments?",
+    "expected_keywords": ["loan", "100% Grant"]
+  },
+  {
+    "question": "How much grant is given to registered farmers councils per hectare under the Command Area Development programme?",
+    "expected_keywords": ["600", "540"]
+  }
+]
